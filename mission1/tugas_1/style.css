@@ -1,0 +1,158 @@
+.container-color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    padding: 20px;
+   }
+
+  .right-container {
+    width: 60%;
+    height: 100%;
+  }
+
+  .left-container {
+    justify-content: center;
+    width: 40%;
+    height: 100%;
+  }
+
+  .color-box {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    font-size: 25px;
+  }
+
+  .biru-tua {
+    height: 50%;
+    width: 100%;
+    background-color:blue;
+    border-top: black 3px solid;
+    border-left: black 3px solid;
+  }
+ 
+  .kuning {
+    background-color: yellow;
+    height: 16.67%;
+    width: 100%;
+    border-top: black 3px solid;
+    border-left: black 3px solid;
+  }
+
+  .merah {
+    background-color: red;
+    height: 16.67%;
+    width: 100%;
+    color: white;
+    border-top: black 3px solid;
+    border-left: black 3px solid;
+  }
+
+  .hijau {
+    background-color: green;
+    height: 16.67%;
+    width: 100%;
+    border-top: black 3px solid;
+    border-left: black 3px solid;
+    border-bottom: black 3px solid;
+  }
+
+  .hitam {
+    background-color: black;
+    width: 100%;
+    height: 16.67%;
+    color: white;
+    border-top: black 3px solid;
+    border-left: black 3px solid;
+    border-right: black 3px solid;
+  }
+
+  .row {
+    display: flex;
+    width: 100%;
+    height: 83.33%;
+  }
+
+  .col {
+    width : 50%;
+    height: 100%;
+  }
+
+  .coklat {
+    background-color: brown;
+    width: 100%;
+    height: 39.7%;
+    color: white;
+    border-top: black 3px solid;
+    border-left: black 3px solid;
+  }
+
+  .ungu {
+    background-color: #7a007a;
+    width: 100%;
+    height: 40.5%;
+    color: white;
+    border-top: black 3px solid;
+    border-left: black 3px solid;
+  }
+
+  .orange  {
+    background-color: #ff7a00;
+    width: 100%;
+    height: 19.8%;
+    border-top: black 3px solid;
+    border-left: black 3px solid;
+    border-bottom: black 3px solid;
+  }
+
+  .abu{
+    background-color: gray;
+    width: 100%;
+    height: 41.5%;
+    color : white;
+    border: black 3px solid;
+  }
+
+  .row-1{
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    width: 100%;
+    height: 60%;
+  }
+
+  .putih {
+    background-color: white;
+    width: 50%;
+    height: 100%;
+    border-top: black 3px solid;
+    border-left: black 3px solid;
+  }
+
+  .row-2{
+    justify-content: center; 
+    align-items: center;
+    width: 50%;
+    height: 100%;
+  }
+
+  .pink {
+    background-color: pink;
+    width: 100%;
+    height: 30%;
+    border-top: black 3px solid;
+    border-left: black 3px solid;
+    border-right: black 3px solid;
+  }
+
+  .biru {
+    background-color: rgb(82, 82, 241);
+    width: 100%;
+    height: 68%;
+    border-top: black 3px solid;
+    border-left: black 3px solid;
+    border-right: black 3px solid;
+    border-bottom: black 2px solid;
+  }
+ 
