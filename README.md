@@ -1,7 +1,7 @@
 <h1>WEB PROGRAMAN PRAKTIKUM </h1>
 <h4>Nama : Regi Purnama</h4>
-<h4>NIM  : 211524057</h4>
-<h4>Kelas: 3B</h4>
+<h4>NIM : 211524057</h4>
+<h4>Kelas : 3B</h4>
 
  <h3>Link Tugas Pemrograman Web Praktikum</h3>
     <ul>
