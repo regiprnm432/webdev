@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Keranjang Produk</title>
+</head>
+<link rel="stylesheet" href="style.css">
+<body>
+  <section>
+    <div class="product">
+      <h2>Daftar Produk</h2>
+      <div id="productList" class="productList">
+          <!-- List produk akan ditambahkan di sini -->
+      </div>
+    </div>
+   
+    <div class="cart">
+      <h2>Keranjang Produk</h2>
+      <ul id="cartItems"></ul>
+      <p>Total Harga: Rp<span id="totalPrice">0</span></p>
+      <p>Pajak 11%: Rp<span id="tax">0</span></p>
+      <p>Total Pembayaran: Rp<span id="totalPayment">0</span></p>
+      <div class="cart-button">
+        <button id="clearCart">Clear Cart</button>
+        <button id="printReceipt">Check Out</button>
+      </div>
+    </div>
+  </section>
+  
+  <script src="script.js"></script>
+</body>
+</html>
