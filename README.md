@@ -7,4 +7,6 @@
     <ul>
         <li>Mission 1 Tugas 1 : https://regiprnm432.github.io/webdev/mission1/tugas_1/tugas_1.html</li>
         <li>Mission 1 Tugas 2 : https://regiprnm432.github.io/webdev/mission1/tugas_2/tugas_2.html</li>
+        <li>Mission 2 Tugas 1 : https://regiprnm432.github.io/webdev/mission2/tugas_1/tugas_1.html</li>
+        <li>Mission 2 Tugas 2 : https://regiprnm432.github.io/webdev/mission2/tugas_2/tugas_2.html</li>
     </ul>
